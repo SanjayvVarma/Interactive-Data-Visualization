@@ -1,0 +1,11 @@
+#myChart  {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.Sales{
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: #666666;
+}
